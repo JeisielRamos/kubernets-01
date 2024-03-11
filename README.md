@@ -17,6 +17,11 @@ Study on the DIO platform
  kubectl deleted pod name-pod
 ```
 
+- deleted service
+```
+ kubectl deleted service name-pod
+```
+
 - Up yml file
 ```
  kubectl apply -f nameFile.yml
